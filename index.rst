@@ -51,6 +51,41 @@
    Fibers and copper deployed at La Serena
 
 .. Add content here.
+
+Introduction
+=============
+
+
+In the following document and information to be provided, it is related to the installation, material, and location of network points, such as fiber optics.
+This document will present information on the location of the data points, the quantity, and also the location and quantity of fiber filaments per location.
+This document reflects how the Physical Calibration Hill and AuxTel Network are built and which project is still under construction may undergo future changes such as adding connection points and deleting.
+The materials used were selected for their quality and properties so that the project in its operation works at its maximum performance.
+The Singlemode fiber optic point cable was installed since in practice there is no transmission limit, only the equipment that transmits.
+The UTP S / FTP cable was selected for its properties to work at 10G / base T and all network points will be installed with this type of cable, for both AP and telephone connections.
+As for everything that is the user's cable is with UTP CAT6 cable
+On some occasions, the multimode cable will be installed only when the equipment needs it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
 .. .. rubric:: References
