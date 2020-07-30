@@ -67,9 +67,100 @@ On some occasions, the multimode cable will be installed only when the equipment
 
 
 
+tabla
 
 
 
+
+
+Places to treat the document
+----------------------------------------
+
+This document details the connections for both copper and fiber optics.
+
+
+
+
+Data center
+===========
+
+
+In this section, I will document the Rack A1 since it concentrates on the optical terminals both the service terminals and the distribution terminals.
+
+The concentration of optical terminals is located in Rack A1 inside the data center.
+
+In rack A7 it distributes fiber optic connections for the different fiber optic points in the "recinto La Serena"
+
+This work was installed with the specifications that Aura IT group delivered and also the places to connect.
+
+Each optical terminal connects to the other end with another optical terminal in its corresponding technical rooms.
+
+In the optical terminals, there are different types of optical fiber such as Singlemode OS2, multimode OM1, OM3
+The connectors on the optical terminals correspond to the LC UPC type.
+
+
+
+Data Center Rack A1 Image
+---------------------------
+
+
+
+
+
+Data Points at BDC
+===================
+
+
+In this session. I will document the information from the data points.
+The points that were considered in the BDC are:
+
+
+- 3 BDC Offices
+- Preparation room
+- Access Point
+
+
+All data points start in rack A1 where a patch panel and a switch are located.
+
+In the BDC rack A1, it consists of the following characteristics in terms of materials and numbering of network points.
+
+
+- 24 Network points in total (in the patch panels}
+- 1 Patch panel
+- 1 48-port switch
+- 2 PDUs (primary and backup)
+- 1 48U Rack
+- 4 Access Points
+
+
+
+Data Points BDC Image
+--------------------------------
+
+
+The data points for the access points were delivered by the network engineer and at the same time from an optimal signal monitoring program.
+
+I will also show the diagram of the Access Point.
+
+
+
+Data Point Access Point BDC
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+PDU location
+---------------
+
+
+In the following image, I will include information of the PDUs installed by each rack in the BDC.
+
+
+
+PDUs Image
+^^^^^^^^^^^^
 
 
 
