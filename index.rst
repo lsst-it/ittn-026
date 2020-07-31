@@ -78,12 +78,33 @@ Places to treat the document
 
 This document details the connections for both copper and fiber optics.
 
+In this document, we will talk about the building known as BDC.
+I will name the places inside the BDC building
+
+- Datacenter
+- Preparation room
+- BDC offices
+- Electrical room
+- UPS room
+- Cooling room
+
+
+In the document, we will talk about the first 3 points and we will give information about the connections.
 
 
 
 Data center
 ===========
 
+I will give a little explanation as to what we have inside the datacenter.
+
+We currently have 2 rack rows known as row A and row B.
+
+In row A we have 2 racks with Rubin equipment.
+
+Rack A1 is shared with Aura and Rubin and Rack A4 we have our DWDM.
+
+All row B we have our Rubin teams and in the future, it is intended to have row C.
 
 In this section, I will document the Rack A1 since it concentrates on the optical terminals both the service terminals and the distribution terminals.
 
@@ -138,6 +159,8 @@ Data Points BDC Image
 --------------------------------
 
 
+
+
 The data points for the access points were delivered by the network engineer and at the same time from an optimal signal monitoring program.
 
 I will also show the diagram of the Access Point.
@@ -155,7 +178,11 @@ PDU location
 ---------------
 
 
-In the following image, I will include information of the PDUs installed by each rack in the BDC.
+In the following image, I will include information of the PDUs installed by each rack in the Datacenter
+
+At the moment we do not have 2 PDUs per rack and we have plans to complete all racks with 2 PDUs, as they are necessary to have main and backup.
+
+Rows A and B have 2 independent electrical circuits to each other.
 
 
 
