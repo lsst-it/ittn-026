@@ -68,7 +68,7 @@ On some occasions, the multimode cable will be installed only when the equipment
 
 
 .. figure:: /_static/tabla.PNG 
-    :name:tabla
+    :name: tabla
             :width: 700 px
             
 
@@ -128,7 +128,7 @@ Data Center Rack A1 Image
 ---------------------------
 
 .. figure:: /_static/racka1.PNG 
-    :name:racka1 
+    :name: racka1 
             :width: 700 px
 
 
@@ -165,7 +165,7 @@ Data Points BDC Image
 --------------------------------
 
 .. figure:: /_static/datacenter.PNG 
-    :name:datacenter 
+    :name: datacenter 
             :width: 700 px
 
 
@@ -204,7 +204,7 @@ PDUs Image
 ^^^^^^^^^^^^
 
 .. figure:: /_static/pdu.PNG 
-    :name:pdu 
+    :name: pdu 
             :width: 700 px
 
 
