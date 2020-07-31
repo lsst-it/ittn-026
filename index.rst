@@ -67,7 +67,10 @@ On some occasions, the multimode cable will be installed only when the equipment
 
 
 
-tabla
+.. figure:: /_static/tabla.PNG 
+    :name:tabla
+            :width: 700 px
+            
 
 
 
@@ -124,6 +127,9 @@ The connectors on the optical terminals correspond to the LC UPC type.
 Data Center Rack A1 Image
 ---------------------------
 
+.. figure:: /_static/racka1.PNG 
+    :name:racka1 
+            :width: 700 px
 
 
 
@@ -158,6 +164,11 @@ In the BDC rack A1, it consists of the following characteristics in terms of mat
 Data Points BDC Image
 --------------------------------
 
+.. figure:: /_static/datacenter.PNG 
+    :name:datacenter 
+            :width: 700 px
+
+
 
 
 
@@ -170,6 +181,9 @@ I will also show the diagram of the Access Point.
 Data Point Access Point BDC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/aps.PNG 
+    :name: aps
+            :width: 700 px
 
 
 
@@ -189,6 +203,9 @@ Rows A and B have 2 independent electrical circuits to each other.
 PDUs Image
 ^^^^^^^^^^^^
 
+.. figure:: /_static/pdu.PNG 
+    :name:pdu 
+            :width: 700 px
 
 
 
