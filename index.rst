@@ -48,7 +48,7 @@ This document will focus on the first 3 areas
 Data center
 ===========
 
-I will give a little explanation as to what we have inside the datacenter.
+On the following document, I will provide an explanation as to what we have inside the datacenter.
 
 We currently have 2 rack rows known as row A and row B.
 
