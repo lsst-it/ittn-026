@@ -14,8 +14,7 @@
 Introduction
 =============
 
-
-The following document details the installation, material, quantity of fiber filaments, and location of network points at La Serena facilities.
+The following documentation, details the amount of materials and fiber filaments used through out the installation of the various network points at the La Serena facility. 
 
 The materials selected were chosen for their quality and properties so the project can operate at its maximum performance.
 
