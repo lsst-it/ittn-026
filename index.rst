@@ -88,7 +88,7 @@ Data Points at BDC
 
 
 In this session. I will document the information from the data points.
-The points that were considered in the BDC are:
+The areas that were considered in the BDC are:
 
 
 - 3 BDC Offices
