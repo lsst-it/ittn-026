@@ -1,48 +1,8 @@
 ..
-  Technote content.
-
-  See https://developer.lsst.io/restructuredtext/style.html
-  for a guide to reStructuredText writing.
-
-  Do not put the title, authors or other metadata in this document;
-  those are automatically added.
-
-  Use the following syntax for sections:
-
-  Sections
-  ========
-
-  and
-
-  Subsections
-  -----------
-
-  and
-
-  Subsubsections
-  ^^^^^^^^^^^^^^
-
-  To add images, add the image file (png, svg or jpeg preferred) to the
-  _static/ directory. The reST syntax for adding the image is
-
-  .. figure:: /_static/filename.ext
-     :name: fig-label
-
-     Caption text.
-
-   Run: ``make html`` and ``open _build/html/index.html`` to preview your work.
-   See the README at https://github.com/lsst-sqre/lsst-technote-bootstrap or
-   this repo's README for more info.
-
-   Feel free to delete this instructional comment.
 
 :tocdepth: 1
 
-.. Please do not modify tocdepth; will be fixed when a new Sphinx theme is shipped.
-
 .. sectnum::
-
-.. TODO: Delete the note below before merging new content to the master branch.
 
 .. note::
 
@@ -50,39 +10,30 @@
 
    Fibers and copper deployed at La Serena
 
-.. Add content here.
 
 Introduction
 =============
 
 
-In the following document and information to be provided, it is related to the installation, material, and location of network points, such as fiber optics.
-This document will present information on the location of the data points, the quantity, and also the location and quantity of fiber filaments per location.
-This document reflects how the Physical Calibration Hill and AuxTel Network are built and which project is still under construction may undergo future changes such as adding connection points and deleting.
-The materials used were selected for their quality and properties so that the project in its operation works at its maximum performance.
-The Singlemode fiber optic point cable was installed since in practice there is no transmission limit, only the equipment that transmits.
-The UTP S / FTP cable was selected for its properties to work at 10G / base T and all network points will be installed with this type of cable, for both AP and telephone connections.
-As for everything that is the user's cable is with UTP CAT6 cable
-On some occasions, the multimode cable will be installed only when the equipment needs it.
+The following document details the installation, material, quantity of fiber filaments, and location of network points at La Serena facilities.
+
+The materials selected were chosen for their quality and properties so the project can operate at its maximum performance.
+
+The Single mode fiber optics were installed due to equipment requirements, however, if the equipment needs it, multimode cable is also available.
+
+The UTP S / FTP cable are utilized for its properties to work at 10G / base T and all network points are installed with this type of cable, for both AP and telephone connections.
+
+User's connections are UTP CAT6 cable
 
 
 
-.. figure:: /_static/tabla.PNG 
+
+.. figure:: /_static/tabla.PNG
     :name: tabla
             :width: 700 px
-            
 
 
-
-
-
-Places to treat the document
-----------------------------------------
-
-This document details the connections for both copper and fiber optics.
-
-In this document, we will talk about the building known as BDC.
-I will name the places inside the BDC building
+La Serena facilities has been divided in the following areas:
 
 - Datacenter
 - Preparation room
@@ -91,9 +42,7 @@ I will name the places inside the BDC building
 - UPS room
 - Cooling room
 
-
-In the document, we will talk about the first 3 points and we will give information about the connections.
-
+This document will focus on the first 3 areas
 
 
 Data center
@@ -127,8 +76,8 @@ The connectors on the optical terminals correspond to the LC UPC type.
 Data Center Rack A1 Image
 ---------------------------
 
-.. figure:: /_static/racka1.PNG 
-    :name: racka1 
+.. figure:: /_static/racka1.PNG
+    :name: racka1
             :width: 700 px
 
 
@@ -164,8 +113,8 @@ In the BDC rack A1, it consists of the following characteristics in terms of mat
 Data Points BDC Image
 --------------------------------
 
-.. figure:: /_static/datacenter.PNG 
-    :name: datacenter 
+.. figure:: /_static/datacenter.PNG
+    :name: datacenter
             :width: 700 px
 
 
@@ -181,7 +130,7 @@ I will also show the diagram of the Access Point.
 Data Point Access Point BDC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: /_static/aps.PNG 
+.. figure:: /_static/aps.PNG
     :name: aps
             :width: 700 px
 
@@ -203,8 +152,8 @@ Rows A and B have 2 independent electrical circuits to each other.
 PDUs Image
 ^^^^^^^^^^^^
 
-.. figure:: /_static/pdu.PNG 
-    :name: pdu 
+.. figure:: /_static/pdu.PNG
+    :name: pdu
             :width: 700 px
 
 
