@@ -18,7 +18,7 @@ The following documentation, details the amount of materials and fiber filaments
 
 The materials selected were chosen based on their quality and technical properties, so the project can operate at its maximum performance.
 
-Based on the equipment requirements, single mode fiber optic were installed in the building. However if required, multimode fiber cables are also available for use when needed.
+Based on the equipment requirements, single mode fiber optic were installed in the building. However, if required, multimode fiber cables are also available for use when needed.
 
 
 UTP S / FTP cables were utilized throughout the building, this was due to their technical properties when working at 10G Base T speeds. All network points in the building were set up and installed with this type of cable for both the access points (AP) and telephony systems.
@@ -34,42 +34,42 @@ All end user device connections are based on UTP CAT6 cables.
             :width: 700 px
 
 
-La Serena facility was divided into the following areas: 
+La Serena facility was divided into the following areas:
 
-- Datacenter
+- Data center
 - Preparation room
 - BDC offices
 - Electrical room
 - UPS room
 - Cooling room
 
-This documentation will primarely focus on the first 3 areas listed above.
+This documentation will primarily focus on the first 3 areas listed above.
 
 
 Data center
 ===========
 
-The datacenter is currently composed of 2 rack rows, these are known as row A and row B.
+The data center is currently composed of 2 rack rows, these are known as row A and row B.
 
-In row A we have 2 racks with Rubin equipment.
+In row A there are  2 racks with Rubin equipment.
 
-Rack A1 is shared with Aura and Rubin, as for Rack A4 this is were our DWDM is located.
+Rack A1 is shared with Aura and Rubin, as for Rack A4 this is where our DWDM is located.
 
-All of row B is for our various Rubin's teams and proyects, it also intended to use row C for future use if needed. 
+All of row B is for our various Rubin's teams and projects, it also intended to use row C for future use if needed.
 
 Rack A1 will be documented hence it focuses on the optical terminals for both the service terminals and the distribution terminals.
 
 
-All of the optical terminals are centrilized and located in Rack A1 inside the data center.
+All the optical terminals are centralized and located in Rack A1 inside the data center.
 
-Rack A7 is in charge of distributing all of the fiber optic connections to the different fiber optic points located at the "Recinto La Serena".
+Rack A7 is in charge of distributing all the fiber optic connections to the different fiber optic points located at the "Recinto La Serena".
 
-This activity was carried out based on the specifications delivered by the AURA IT group which also listed the various locations to setup connectivity. 
+This activity was carried out based on the specifications delivered by the AURA IT group which also listed the various locations to set up connectivity.
 
-Each individual optical terminal connects to one of the ends where another optical terminal is located, each one of these optical terminals correspond to a technical room. 
+Each individual optical terminal connects to one of the ends where another optical terminal is located, each one of these optical terminals correspond to a technical room.
 
 
-In the optical terminals, you will find different types of optical fibers such as Singlemode OS2, multimode OM1 and OM3. Each one of these terminals have an LC UPC type connector. 
+In the optical terminals, you will find different types of optical fibers such as single mode OS2, multimode OM1 and OM3. Each one of these terminals have an LC UPC type connector.
 
 
 Data Center Rack A1 Image
@@ -88,7 +88,7 @@ Data Points at BDC
 
 The following section documents information related to our various data points.
 
-The areas considered at the base datacenter were:
+The areas considered at the base data center were:
 
 - 3 BDC Offices
 - Preparation room
@@ -97,7 +97,7 @@ The areas considered at the base datacenter were:
 
 All data points start in rack A1 where the patch panel and the switch are located.
 
-BDC rack A1 has the following characteristics in termns of materials and numbering of the various network points.
+BDC rack A1 has the following characteristics in terms of materials and numbering of the various network points.
 
 Rack A1:
 
