@@ -14,15 +14,17 @@
 Introduction
 =============
 
-The following documentation, details the amount of materials and fiber filaments used through out the installation of the various network points at the La Serena facility. 
+The following documentation, details the amount of materials and fiber filaments used throughout the setup and installation of the various network points at La Serena facility.
 
-The materials selected were chosen for their quality and properties so the project can operate at its maximum performance.
+The materials selected were chosen based on their quality and technical properties, so the project can operate at its maximum performance.
 
-The Single mode fiber optics were installed due to equipment requirements, however, if the equipment needs it, multimode cable is also available.
+Based on the equipment requirements, single mode fiber optic were installed in the building. However, if required, multimode fiber cables are also available for use when needed.
 
-The UTP S / FTP cable are utilized for its properties to work at 10G / base T and all network points are installed with this type of cable, for both AP and telephone connections.
 
-User's connections are UTP CAT6 cable
+UTP S / FTP cables were utilized throughout the building, this was due to their technical properties for when working at 10G Base T speeds. All network points in the building were set up and installed with this type of cable for both the various access points (AP) and telephony system connections.
+
+
+All end user devices connections are based on UTP CAT6 cables. 
 
 
 
@@ -32,7 +34,7 @@ User's connections are UTP CAT6 cable
             :width: 700 px
 
 
-La Serena facilities has been divided in the following areas:
+La Serena facility was divided into the following areas: 
 
 - Datacenter
 - Preparation room
@@ -41,7 +43,7 @@ La Serena facilities has been divided in the following areas:
 - UPS room
 - Cooling room
 
-This document will focus on the first 3 areas
+This documentation will centralize its focus on the first 3 areas.
 
 
 Data center
