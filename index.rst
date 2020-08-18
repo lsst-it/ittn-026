@@ -21,10 +21,10 @@ The materials selected were chosen based on their quality and technical properti
 Based on the equipment requirements, single mode fiber optic were installed in the building. However, if required, multimode fiber cables are also available for use when needed.
 
 
-UTP S / FTP cables were utilized throughout the building, this was due to their technical properties for when working at 10G Base T speeds. All network points in the building were set up and installed with this type of cable for both the various access points (AP) and telephony system connections.
+UTP S / FTP cables were utilized throughout the building, this was due to their technical properties when working at 10GBase-T speeds. All network points in the building were set up and installed with this type of cable for both the access points (AP) and telephony systems.
 
 
-All end user devices connections are based on UTP CAT6 cables. 
+All end user device connections are based on UTP CAT6 cables. 
 
 
 
@@ -34,44 +34,42 @@ All end user devices connections are based on UTP CAT6 cables.
             :width: 700 px
 
 
-La Serena facility was divided into the following areas: 
+La Serena facility was divided into the following areas:
 
-- Datacenter
+- Data center
 - Preparation room
 - BDC offices
 - Electrical room
 - UPS room
 - Cooling room
 
-This documentation will centralize its focus on the first 3 areas.
+This documentation will primarily focus on the first 3 areas listed above.
 
 
 Data center
 ===========
 
-On the following document, I will provide an explanation as to what we have inside the datacenter.
+The data center is currently composed of 2 rack rows, these are known as row A and row B.
 
-We currently have 2 rack rows known as row A and row B.
+In row A there are  2 racks with Rubin equipment.
 
-In row A we have 2 racks with Rubin equipment.
+Rack A1 is shared with Aura and Rubin, as for Rack A4 this is where our DWDM is located.
 
-Rack A1 is shared with Aura and Rubin and Rack A4 we have our DWDM.
+All of row B is for our various Rubin's teams and projects, it also intended to use row C in the future if needed.
 
-All row B we have our Rubin teams and in the future, it is intended to have row C.
+Rack A1 will be documented hence it focuses on the optical terminals for both the service terminals and the distribution terminals.
 
-In this section, I will document the Rack A1 since it concentrates on the optical terminals both the service terminals and the distribution terminals.
 
-The concentration of optical terminals is located in Rack A1 inside the data center.
+All optical terminals are centralized and located in Rack A1 inside the data center.
 
-In rack A7 it distributes fiber optic connections for the different fiber optic points in the "recinto La Serena"
+Rack A7 is in charge of distributing all the fiber optic connections to the different fiber optic points located at the "Recinto La Serena".
 
-This work was installed with the specifications that Aura IT group delivered and also the places to connect.
+This activity was carried out based on the specifications delivered by the AURA IT group which also listed the various locations to set up connectivity.
 
-Each optical terminal connects to the other end with another optical terminal in its corresponding technical rooms.
+Each individual optical terminal connects to one of the ends where another optical terminal is located, each one of these optical terminals correspond to a technical room.
 
-In the optical terminals, there are different types of optical fiber such as Singlemode OS2, multimode OM1, OM3
-The connectors on the optical terminals correspond to the LC UPC type.
 
+In the optical terminals, you will find different types of optical fibers such as single mode OS2, multimode OM1 and OM3. Each one of these terminals have an LC UPC type connector.
 
 
 Data Center Rack A1 Image
@@ -88,19 +86,20 @@ Data Points at BDC
 ===================
 
 
-In this session. I will document the information from the data points.
-The areas that were considered in the BDC are:
+The following section documents information related to our various data points.
 
+The areas considered at the base data center were:
 
 - 3 BDC Offices
 - Preparation room
-- Access Point
+- Access Points
 
 
-All data points start in rack A1 where a patch panel and a switch are located.
+All data points start in rack A1 where the patch panel and the switch are located.
 
-In the BDC rack A1, it consists of the following characteristics in terms of materials and numbering of network points.
+BDC rack A1 has the following characteristics in terms of materials and numbering of the various network points.
 
+Rack A1:
 
 - 24 Network points in total (in the patch panels}
 - 1 Patch panel
@@ -122,13 +121,13 @@ Data Points BDC Image
 
 
 
-The data points for the access points were delivered by the network engineer and at the same time from an optimal signal monitoring program.
+The locations of the data points for the AP's were delivered by the network engineer who used an optimal signal monitoring program to determine this. 
 
-I will also show the diagram of the Access Point.
+Below is a diagram of the access points located at BDC.
 
 
 
-Data Point Access Point BDC
+Data Point / Access Point BDC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/aps.PNG
@@ -142,11 +141,11 @@ PDU location
 ---------------
 
 
-In the following image, I will include information of the PDUs installed by each rack in the Datacenter
+In the following image, you will information related the PDUs installed in each rack in the Datacenter.
 
-At the moment we do not have 2 PDUs per rack and we have plans to complete all racks with 2 PDUs, as they are necessary to have main and backup.
+At the moment we do not have 2 PDUs per rack and but we have plans to set this up in the future, as its necessary to have a main and a backup PDU system. 
 
-Rows A and B have 2 independent electrical circuits to each other.
+Both Row A and B have 2 independent electrical circuits to each other.
 
 
 
