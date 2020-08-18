@@ -21,7 +21,7 @@ The materials selected were chosen based on their quality and technical properti
 Based on the equipment requirements, single mode fiber optic were installed in the building. However, if required, multimode fiber cables are also available for use when needed.
 
 
-UTP S / FTP cables were utilized throughout the building, this was due to their technical properties when working at 10G Base T speeds. All network points in the building were set up and installed with this type of cable for both the access points (AP) and telephony systems.
+UTP S / FTP cables were utilized throughout the building, this was due to their technical properties when working at 10GBase-T speeds. All network points in the building were set up and installed with this type of cable for both the access points (AP) and telephony systems.
 
 
 All end user device connections are based on UTP CAT6 cables. 
@@ -55,12 +55,12 @@ In row A there are  2 racks with Rubin equipment.
 
 Rack A1 is shared with Aura and Rubin, as for Rack A4 this is where our DWDM is located.
 
-All of row B is for our various Rubin's teams and projects, it also intended to use row C for future use if needed.
+All of row B is for our various Rubin's teams and projects, it also intended to use row C in the future if needed.
 
 Rack A1 will be documented hence it focuses on the optical terminals for both the service terminals and the distribution terminals.
 
 
-All the optical terminals are centralized and located in Rack A1 inside the data center.
+All optical terminals are centralized and located in Rack A1 inside the data center.
 
 Rack A7 is in charge of distributing all the fiber optic connections to the different fiber optic points located at the "Recinto La Serena".
 
