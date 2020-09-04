@@ -14,14 +14,9 @@
 Introduction
 =============
 
-The following documentation, details the amount of materials and fiber filaments used throughout the setup and installation of the various network points at La Serena facility.
+The purpose of this document is to provide information related to the installation, materials used, network point areas, and the number of fiber filaments used per floor. This documentation also reflects how the physical network of the base datacenter is built by putting an emphasis on the fact that the project is still undergoing construction and will undergo continuous changes in the near future. These changes include additional network points or removing those that are already in place. The materials used for this project were all selected based on their quality and technical properties so that the project can operate at maximum performance once in operations. 
 
-The materials selected were chosen based on their quality and technical properties, so the project can operate at its maximum performance.
-
-Based on the equipment requirements, single mode fiber optic were installed in the building. However, if required, multimode fiber cables are also available for use when needed.
-
-
-UTP S / FTP cables were utilized throughout the building, this was due to their technical properties when working at 10GBase-T speeds. All network points in the building were set up and installed with this type of cable for both the access points (AP) and telephony systems.
+Single-mode fiber was selected and installed due to its technical properties hence it provides an unlimited transmission limit. This fiber will only be used for the equipment that functions as a transmitter (TX). It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to work at 10GBASE-T speeds. All network points were installed with this type of cable, both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was setup. In some occasions, multi-mode fiber cable connections will be set up and installed for any technical equipment that requires it.
 
 
 All end user device connections are based on UTP CAT6 cables. 
@@ -49,27 +44,25 @@ This documentation will primarily focus on the first 3 areas listed above.
 Data center
 ===========
 
-The data center is currently composed of 2 rack rows, these are known as row A and row B.
+The data center is currently composed of 2 rack rows A and B.
 
-In row A there are  2 racks with Rubin equipment.
+In row A there are  2 racks with Rubin equipment (Rack A1 / Rack A4).
 
 Rack A1 is shared with Aura and Rubin, as for Rack A4 this is where our DWDM is located.
 
-All of row B is for our various Rubin's teams and projects, it also intended to use row C in the future if needed.
-
-Rack A1 will be documented hence it focuses on the optical terminals for both the service terminals and the distribution terminals.
-
+All of row B is designated for various Rubin's teams and projects, it also intended to use row C in the future if needed.
 
 All optical terminals are centralized and located in Rack A1 inside the data center.
 
-Rack A7 is in charge of distributing all the fiber optic connections to the different fiber optic points located at the "Recinto La Serena".
+Rack A1 will be documented hence it focuses on the optical terminals for both the service terminals and the distribution terminals.
+
+Rack A1 is also in charge of distributing all the fiber optic connections to the different optical terminals located at the "Recinto La Serena".
 
 This activity was carried out based on the specifications delivered by the AURA IT group which also listed the various locations to set up connectivity.
 
 Each individual optical terminal connects to one of the ends where another optical terminal is located, each one of these optical terminals correspond to a technical room.
 
-
-In the optical terminals, you will find different types of optical fibers such as single mode OS2, multimode OM1 and OM3. Each one of these terminals have an LC UPC type connector.
+In these optical terminals, you will find different types of optical fibers such as single mode OS2, multimode OM1 and OM3. Each one of these terminals have an LC UPC type connector.
 
 
 Data Center Rack A1 Image
@@ -121,7 +114,7 @@ Data Points BDC Image
 
 
 
-The locations of the data points for the AP's were delivered by the network engineer who used an optimal signal monitoring program to determine this. 
+The locations of the data points for the AP's were delivered by the network engineer in charge  who used an optimal signal monitoring program to determine this. 
 
 Below is a diagram of the access points located at BDC.
 
@@ -141,9 +134,9 @@ PDU location
 ---------------
 
 
-In the following image, you will information related the PDUs installed in each rack in the Datacenter.
+The following image provides information related to the PDUs installed in each rack in the Datacenter.
 
-At the moment we do not have 2 PDUs per rack and but we have plans to set this up in the future, as its necessary to have a main and a backup PDU system. 
+It is intented to setup all of the racks with 2 PDUs but this activity is currently still in progress. The image illustrated below shows the current status of this activity and amount of PDUs setup per rack. 
 
 Both Row A and B have 2 independent electrical circuits to each other.
 
